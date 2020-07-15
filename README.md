@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=WXJqR2O8o1U
 
 IFTTT - Webhook schreibt Nachricht in Slack Channel
 
+Connections können in IFTTT nicht geteilt werden. Der folgende Link ist der Trigger für den Prozess
 https://maker.ifttt.com/trigger/Create_Meeting/with/key/kbUGrWdIogcA8OvdikuMdVGqudW0xm9V4z77MFHO9T
 
 Zapier - Slack --> Zoom
