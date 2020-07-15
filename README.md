@@ -8,7 +8,7 @@ siehe Github Wiki https://github.com/manumo12/virtual-breakroom/wiki <p>
 
 https://www.youtube.com/watch?v=WXJqR2O8o1U
 
-## MVP Implementierung
+## MVP Implementierung:
 
 IFTTT - Webhook schreibt Nachricht in Slack Channel
 
